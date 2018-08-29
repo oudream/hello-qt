@@ -40,3 +40,5 @@
 /build/deploy/.svn
 /build/deploy/data
 /build/deploy/temp
+/build/qt/projects_version.h
+/build/qt/projects_version.pri
